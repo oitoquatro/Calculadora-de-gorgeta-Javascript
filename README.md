@@ -1,1 +1,1 @@
-# Calculadora-de-gorgeta-Javascript
+# Calculadora-de-gorjeta-Javascript
